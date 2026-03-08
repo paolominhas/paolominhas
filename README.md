@@ -1,15 +1,4 @@
-
-<div align="center">
-  <h1>Hi there, I'm Paolo 👋</h1>
-</div>
-
-## About Me
-- 🌱 I’m currently studying Physics at the University of Edinburgh
-- 👯 I’m used to using python and C++ for particle physics
-- 🤔 I have experience in ROOT and GLoBES
-- 📫 I am giving a bit of web development a go with react.js
-- ⚡ You can see the website I have built for my orchestra at [eu-co.co.uk](https://eu-co.co.uk)
-- 📫 How to reach me: [me@sms.ed.ac.uk](mailto:s2289940@ed.ac.uk)
+[My Website](mailto:s2289940@ed.ac.uk)
   
 ## 💻 My Tech Stack
 <p>
@@ -29,13 +18,14 @@
   <img src="Edinburgh.jpeg" alt="An Edinburgh banner image for my profile" width="800"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paolominhas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paolominhas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
+<p align="center">
+  <a href="https://www.paolo.org.uk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paolo-m-319374305/" target="_blank">
+  <a href="https://www.linkedin.com/in/paolo-m/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
