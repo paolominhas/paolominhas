@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paolominhas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  
   <a href="https://www.paolo.org.uk">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
@@ -15,5 +17,3 @@
     <img src="https://img.shields.io/badge/Music Site-0AF622?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paolominhas&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
